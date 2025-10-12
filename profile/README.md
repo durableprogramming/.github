@@ -61,8 +61,6 @@ We welcome contributions to all our projects! Please see individual project READ
 3. Make your changes with tests
 4. Submit a pull request
 
-All projects follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
-
 ## Commercial Support
 
 Commercial support, custom development, and consulting services are available from Durable Programming, LLC.
