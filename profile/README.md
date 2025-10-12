@@ -23,10 +23,6 @@ At Durable Programming, we believe in creating software that is:
 
 - **[abachrome](https://github.com/durableprogramming/abachrome)** - Ruby gem for parsing and manipulating colors
 
-### Infrastructure & Deployment
-
-- **[durable-ansistrano-deploy](https://github.com/durableprogramming/durable-ansistrano-deploy)** - Ansible roles for application deployment
-
 ### Database & Data Tools
 
 - **[sqlaxe](https://github.com/djberube/sqlaxe)** - SQL file manipulation and splitting tool
@@ -35,6 +31,8 @@ At Durable Programming, we believe in creating software that is:
 ### Command Line Tools
 
 - **[dotenvk](https://github.com/durableprogramming/dotenvk)** - Pragmatic .env file management
+- **[composek](https://github.com/durableprogramming/composek)** - Edit Docker compose YAML files programatically and from the CLI.
+- **[dprs](https://github.com/durableprogramming/dprs)** - Heads-up display for Docker - designed with development in mind.
 - **[clifx](https://github.com/durableprogramming/clifx)** - Terminal visual effects and animations
 
 
